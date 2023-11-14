@@ -1,3 +1,0 @@
-rootProject.name = 'opa'
-include 'project'
-include 'file'
